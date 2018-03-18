@@ -22,7 +22,7 @@
 
 ## TEAM
 
-- [Krekevyks](https://github.com/CikerDeveloper) __(Designer)__
+- [Krekevyks](https://github.com/krekevyks) __(Designer)__
 
 #### License
 

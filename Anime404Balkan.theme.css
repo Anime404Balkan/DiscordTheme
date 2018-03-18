@@ -109,7 +109,7 @@
 /* INTRNL addons end */
 /* Krekevyks */
 .avatar-large[style*="237616896948699136"]+.comment .timestamp::before, .avatar-large[style*="237616896948699136"]+.comment .timestamp::before, .avatar-large[style*="237616896948699136"]+.comment .timestamp::before {
-    content: 'Theme Developer';
+    content: 'Theme Designer';
     border-color: #51286A;
     background: #51286A;
     border-radius: 1px;
@@ -126,7 +126,7 @@
 }
 /* Ciker */
 .avatar-large[style*="188393152392986625"]+.comment .timestamp::before, .avatar-large[style*="188393152392986625"]+.comment .timestamp::before, .avatar-large[style*="188393152392986625"]+.comment .timestamp::before {
-    content: 'Shit';
+    content: 'OWNER/FOUNDER';
     border-color: #51286A;
     background: #51286A;
     border-radius: 1px;

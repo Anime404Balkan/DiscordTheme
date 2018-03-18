@@ -3,7 +3,7 @@
   <br>
   <a href="https://origemwoot.github.io"><img src="https://i.imgur.com/ndq6SR6.gif" alt="Anime 404 Balkan Discord Theme" width="200"></a>
   <br>
-  Anime 404 Balkan Discord Theme (v2.7.1)
+  Anime 404 Balkan Discord Theme (v1.0.0)
   <br>
 </h1>
 
